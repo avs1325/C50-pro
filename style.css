@@ -1,0 +1,15 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+h1 {
+    color: black;
+}
+
+.header {
+    background-color: blanchedalmond;
+    display: flexbox;
+    justify-content: space-between;
+}
